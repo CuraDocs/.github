@@ -1,6 +1,6 @@
 # CURA DOCS
 
-**CURA DOCS** is a digital health records management application designed to streamline the storage and retrieval of patient medical details. By leveraging modern technology, it enables the efficient creation and management of personalized medical documentation.  
+**CURA DOCS**  is an advanced healthcare technology platform redefining medical record management with a steadfast commitment to privacy and security. By integrating seamless access with verified medical oversight, we empower individuals to navigate their health journey with trust, innovation, and precision.
 
 ## Key Features  
 
